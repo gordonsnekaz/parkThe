@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043591447741",
+    "project_id": "enroute-386b0",
+    "storage_bucket": "enroute-386b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043591447741:android:a39e40b76f331f4ba263d4",
+        "android_client_info": {
+          "package_name": "com.example.parkthe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043591447741-10he7df1erlga865e6maid15e5rhr529.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFb0KTttSQ7OjVomtd8_I2hr541iSd2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043591447741-10he7df1erlga865e6maid15e5rhr529.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
